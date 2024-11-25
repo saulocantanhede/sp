@@ -12,11 +12,11 @@
 @version=3.4.1
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-11-12T02:38:48Z
+@dateWritten=2024-11-25T04:00:08Z
 
 1-399392	sign
 399393-399397	book
 399398-399584	chapter
 399585-405425	verse
 405426-520316	word
-520317-592856	phrase
+520317-592282	phrase_atom
